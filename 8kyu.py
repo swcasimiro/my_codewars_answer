@@ -1,3 +1,4 @@
+
 # https://www.codewars.com/kata/58bf9bd943fadb2a980000a7
 def who_is_paying(name):
     lst = []
