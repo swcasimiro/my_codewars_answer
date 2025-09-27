@@ -12,6 +12,7 @@ def accum(st):
     return text[:-1]
 
 
+
 # https://www.codewars.com/kata/596343a24489a8b2a00000a2
 def is_it_a_num(s: str) -> str:
     phone = ''.join(c if c.isdigit() else ' ' for c in s).split()
